@@ -24,7 +24,7 @@ Die ausgabe kann in etwa so aussehen:
 
 ---------
 
-* * * 
+<br/><br/>
 
 -- Aufgabe 2: Ich aber zuerst ! -- 
 
