@@ -10,10 +10,10 @@ ihr könnt das Projekt herunterladen und benutzen.
 In der ersten Aufgabe geht es darum eine Suppe mit Toppings zu Dekorieren. Dazu werden 3 Toppings zu einen Suppen String hinzugefügt, und als eine Rahmen Suppe erstellt. Die Dekorierer sollen eine weitere Zutat zu der Stringkette hinzufügen
 Dazu werden benötigt:
 
-ein ZutatenInterface,
-ein ZutatenDekorierer,
-spezifische Dekorierer der jeweiligen Toppings,
-eine Suppen Klasse
+- ein ZutatenInterface,
+- ein ZutatenDekorierer,
+- spezifische Dekorierer der jeweiligen Toppings,
+- eine Suppen Klasse
 
 
 Die Toppings könnt ihr euch selber aussuchen.
