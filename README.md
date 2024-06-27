@@ -22,6 +22,8 @@ Die ausgabe kann in etwa so aussehen:
 
 "Tonkatsu + Nudeln + Pilze + Bambus Sprossen"
 
+-
+
 
 
 
