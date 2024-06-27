@@ -21,12 +21,13 @@ Die Toppings könnt ihr euch selber aussuchen.
 Die ausgabe kann in etwa so aussehen:
 
 "Tonkatsu + Nudeln + Pilze + Bambus Sprossen"
+<br/><br/>
 
 ---------
 
-<br/><br/>
 
 -- Aufgabe 2: Ich aber zuerst ! -- 
+<br/>
 
 Bei dieser Aufgabe geht es darum das Singleton pattern Anzuwenden und eine Instanz einer klassen zu erstellen. Diese Klasse soll ausschließlich einmal erzeugt werden, und dann auch nur von einem Thread gleichzeitig bearbeitet werden. 
 Unterschiedliche Kinder wollen auf dem Whiteboard Malen, jedoch hat die Mutter gesagt, dass sie sich dabei abwechseln sollen.
