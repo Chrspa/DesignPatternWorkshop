@@ -8,13 +8,18 @@ ihr könnt das Projekt herunterladen und benutzen.
 -- Aufgabe 1: Leckere Suppe! --
 
 In der ersten Aufgabe geht es darum eine Suppe mit Toppings zu Dekorieren. Dazu werden 3 Toppings zu einen Suppen String hinzugefügt, und als eine Rahmen Suppe erstellt. Die Dekorierer sollen eine weitere Zutat zu der Stringkette hinzufügen
-Dazu werden ein ZutatenInterface, ein ZutatenDekorierer und die Dekorierer der jeweiligen Toppings benötigt. 
+Dazu werden benötigt:
+
+ein ZutatenInterface, 
+ein ZutatenDekorierer,
+spezifische Dekorierer der jeweiligen Toppings,
+eine Suppen Klasse
 
 Die Toppings könnt ihr euch selber aussuchen.
 
 Die ausgabe kann in etwa so aussehen:
 
-Tonkatsu + Nudeln + Pilze + Bambus Sprossen
+"Tonkatsu + Nudeln + Pilze + Bambus Sprossen"
 
 
 
@@ -37,9 +42,9 @@ die Funktion "public static Whiteboard getInstance(String whiteboardName)", die 
 
 die Terminal Ausgaben sind:
 
-hallo ich bin Tomas ich bin 7 jahre alt!
+"hallo ich bin Tomas ich bin 7 jahre alt!
 hallo ich bin Benni ich bin 6 jahre alt!
-hallo ich bin Julia ich bin 8 jahre alt!
+hallo ich bin Julia ich bin 8 jahre alt!"
 
 
 
