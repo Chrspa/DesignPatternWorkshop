@@ -23,7 +23,7 @@ Die ausgabe kann in etwa so aussehen:
 "Tonkatsu + Nudeln + Pilze + Bambus Sprossen"
 
 ---------
-
+\
 
 
 -- Aufgabe 2: Ich aber zuerst ! -- 
@@ -33,20 +33,20 @@ Unterschiedliche Kinder wollen auf dem Whiteboard Malen, jedoch hat die Mutter g
 
 Die Klasse hat:
 
-"private static volatile Singleton Whiteboard instanze;"
-eine String Liste "geschriebenes"
-ein String "whiteboardName"
-die Funktion "private Whiteboard(String whiteboardName)", die als getter dient
-die Funktion "public static void malen(String wort)", die einen String dem Array hinzufügen soll
-die Funktion "public static void schauen()", die auf der Konsole den Inhalt der Liste ausgeben soll
-die Funktion "public static Whiteboard getInstance(String whiteboardName)", die die Instanz des Whiteboards zurückgeben soll
+"private static volatile Singleton Whiteboard instanze;" \
+eine String Liste "geschriebenes" \
+ein String "whiteboardName" \
+die Funktion "private Whiteboard(String whiteboardName)", die als getter dient \
+die Funktion "public static void malen(String wort)", die einen String dem Array hinzufügen soll \
+die Funktion "public static void schauen()", die auf der Konsole den Inhalt der Liste ausgeben soll \
+die Funktion "public static Whiteboard getInstance(String whiteboardName)", die die Instanz des Whiteboards zurückgeben soll\
 
 
 die Terminal Ausgaben sind:
 
-"hallo ich bin Tomas ich bin 7 jahre alt!
-hallo ich bin Benni ich bin 6 jahre alt!
-hallo ich bin Julia ich bin 8 jahre alt!"
+"hallo ich bin Tomas ich bin 7 jahre alt! \
+hallo ich bin Benni ich bin 6 jahre alt! \
+hallo ich bin Julia ich bin 8 jahre alt!" \
 
 
 
