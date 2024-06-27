@@ -11,12 +11,10 @@ In der ersten Aufgabe geht es darum eine Suppe mit Toppings zu Dekorieren. Dazu 
 Dazu werden benötigt:
 
 ein ZutatenInterface,
-
 ein ZutatenDekorierer,
-
 spezifische Dekorierer der jeweiligen Toppings,
-
 eine Suppen Klasse
+
 
 Die Toppings könnt ihr euch selber aussuchen.
 
