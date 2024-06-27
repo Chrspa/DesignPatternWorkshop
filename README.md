@@ -23,8 +23,8 @@ Die ausgabe kann in etwa so aussehen:
 "Tonkatsu + Nudeln + Pilze + Bambus Sprossen"
 
 ---------
-\
 
+* * * 
 
 -- Aufgabe 2: Ich aber zuerst ! -- 
 
@@ -39,7 +39,7 @@ ein String "whiteboardName" \
 die Funktion "private Whiteboard(String whiteboardName)", die als getter dient \
 die Funktion "public static void malen(String wort)", die einen String dem Array hinzufügen soll \
 die Funktion "public static void schauen()", die auf der Konsole den Inhalt der Liste ausgeben soll \
-die Funktion "public static Whiteboard getInstance(String whiteboardName)", die die Instanz des Whiteboards zurückgeben soll\
+die Funktion "public static Whiteboard getInstance(String whiteboardName)", die die Instanz des Whiteboards zurückgeben soll
 
 
 die Terminal Ausgaben sind:
