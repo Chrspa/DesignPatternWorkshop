@@ -2,7 +2,8 @@
 
 Die Aufgaben für den Workshop!
 
-Die aufgaben sind dafür ausgelegt, die Jeweiligen Designpattern für die Lösung Anzuwenden. Alles weitere ist euch voll und ganz überlassen!
+Die aufgaben sind dafür ausgelegt, die Jeweiligen Designpattern für die Lösung Anzuwenden. Alles weitere ist euch voll und ganz überlassen! 
+ihr könnt das Projekt herunterladen und benutzen.
 
 -- Aufgabe 1: Leckere Suppe! --
 
