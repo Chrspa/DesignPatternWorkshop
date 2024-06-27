@@ -13,20 +13,18 @@ public class Main {
         objekt.präsentieren("Tonkatsu");
     */
 
-    }
-}
-
-
-
-        /*
-        Aufgabe 2 main Code
-        Whiteboard mrBoard=Whiteboard.getInstance("schönes Whiteboard");
-        Kind tomas= new Kind("Tomas",7);
-        Kind benni= new Kind("Benni",6);
-        Kind julia= new Kind("Julia",8);
+/*
+        //Aufgabe 2 main Code
+        Whiteboard mrBoard = Whiteboard.getInstance("schönes Whiteboard");
+        Kind tomas = new Kind("Tomas", 7);
+        Kind benni = new Kind("Benni", 6);
+        Kind julia = new Kind("Julia", 8);
 
         tomas.benutzen(mrBoard);
         benni.benutzen(mrBoard);
         julia.benutzen(mrBoard);
         mrBoard.schauen();
-        */
+ */
+    }
+
+}

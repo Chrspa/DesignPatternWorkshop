@@ -7,7 +7,7 @@ public class Kind {
         this.alter = alter;
     }
 
-
+    //einem Kind kann ein Whiteboard übergeben werden, auf dem es schreibt
     public void benutzen(Whiteboard whiteboard){
         whiteboard.malen("hallo ich bin " + name + " ich bin " + alter + " jahre alt!");
     }
